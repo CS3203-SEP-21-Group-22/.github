@@ -1,4 +1,4 @@
-<h2 align="center">🚀 Welcome to Lab Tracker 🚀</h2>
+<h1 align="center">🚀 Welcome to Lab Tracker 🚀</h1>
 
 ![view](images/View.png)
 
