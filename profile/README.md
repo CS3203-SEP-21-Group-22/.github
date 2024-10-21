@@ -1,14 +1,17 @@
-<!--
+<h2 align="center">🚀 Welcome to Lab Tracker 🚀</h2>
 
-**Here are some ideas to get you started:**
+![view](images/View.png)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h2 align="center">📝 Description 📝</h2>
 
 <h2 align="center">🏢 System Architecture 🛠️</h2>
 
 ![sysArchi](images/system_architecture.png)
+
+<h2 align="center">📚 Technologies 📚</h2>
+
+<h2 align="center">📖 How to use 📖</h2>
+
+<h2 align="center">👨‍💻 Contributors 👩‍💻</h2>
+
+<h2 align="center">📜 License 📜</h2>
